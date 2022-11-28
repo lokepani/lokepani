@@ -1,2 +1,2 @@
-name="ushnish"
+name="lokesh"
 print(name[:2])
